@@ -1,0 +1,33 @@
+#ifndef _ILI9341_t3_font_AlegreyaSans-BlackItalic_
+#define _ILI9341_t3_font_AlegreyaSans-BlackItalic_
+
+#include "ILI9341_t3.h"
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+extern const ILI9341_t3_font_t AlegreyaSansBlack_8_Bold_Italic;
+extern const ILI9341_t3_font_t AlegreyaSansBlack_9_Bold_Italic;
+extern const ILI9341_t3_font_t AlegreyaSansBlack_10_Bold_Italic;
+extern const ILI9341_t3_font_t AlegreyaSansBlack_11_Bold_Italic;
+extern const ILI9341_t3_font_t AlegreyaSansBlack_12_Bold_Italic;
+extern const ILI9341_t3_font_t AlegreyaSansBlack_13_Bold_Italic;
+extern const ILI9341_t3_font_t AlegreyaSansBlack_14_Bold_Italic;
+extern const ILI9341_t3_font_t AlegreyaSansBlack_16_Bold_Italic;
+extern const ILI9341_t3_font_t AlegreyaSansBlack_18_Bold_Italic;
+extern const ILI9341_t3_font_t AlegreyaSansBlack_20_Bold_Italic;
+extern const ILI9341_t3_font_t AlegreyaSansBlack_24_Bold_Italic;
+extern const ILI9341_t3_font_t AlegreyaSansBlack_28_Bold_Italic;
+extern const ILI9341_t3_font_t AlegreyaSansBlack_32_Bold_Italic;
+extern const ILI9341_t3_font_t AlegreyaSansBlack_40_Bold_Italic;
+extern const ILI9341_t3_font_t AlegreyaSansBlack_48_Bold_Italic;
+extern const ILI9341_t3_font_t AlegreyaSansBlack_60_Bold_Italic;
+extern const ILI9341_t3_font_t AlegreyaSansBlack_72_Bold_Italic;
+extern const ILI9341_t3_font_t AlegreyaSansBlack_96_Bold_Italic;
+
+#ifdef __cplusplus
+} // extern "C"
+#endif
+
+#endif

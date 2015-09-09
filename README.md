@@ -1,3 +1,13 @@
+# Google Fonts Files converted to Teensy ILI9341 Font format
+
+Usage:
+
+Pick the *.h, *c and license files from the font-directory of your choice (subdirectory ofl/*) and copy them to your fonts directory.
+
+Visual Catalog: https://www.google.com/fonts#
+
+2015/09/09
+
 # Google Fonts Files
 
 This project contains the binary font files served by Google Fonts: http://www.google.com/fonts
